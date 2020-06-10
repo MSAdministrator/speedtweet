@@ -1,0 +1,5 @@
+twitter_consumer_key: 'YOUR_VALUE_HERE'
+twitter_consumer_secret: 'YOUR_VALUE_HERE'
+twitter_access_token: 'YOUR_VALUE_HERE'
+twitter_access_token_secret: 'YOUR_VALUE_HERE'
+speedtweet_at_account: "@SOMETWITTERACCOUNT"

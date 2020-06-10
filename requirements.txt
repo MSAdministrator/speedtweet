@@ -1,0 +1,6 @@
+pyyaml
+speedtest-cli
+requests
+fire
+aiohttp
+tweepy
